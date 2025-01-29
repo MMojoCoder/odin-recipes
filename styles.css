@@ -1,0 +1,40 @@
+﻿* {
+    background-color: #121212;
+    color:aliceblue;
+    font-family:Helvetica, Arial, sans-serif;
+
+    width: 1000px;
+    margin: 20px auto;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+img {
+    display: block;
+    margin: 10px auto;
+    border-radius: 20px;
+    border:5px solid white;
+}
+
+
+a strong,
+a {
+    color:blue;
+}
+
+strong {
+    color: white;
+}
+
+#main-ul {
+    width:200px;
+
+}
+
+
+
+
+
